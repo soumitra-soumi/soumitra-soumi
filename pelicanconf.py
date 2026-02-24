@@ -12,9 +12,9 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-PATH = 'C:\\Users\\soumi\\blog\\content\\'
+PATH = 'content\'
 
-THEME = 'C:\\Users\\soumi\\blog\\theme'
+THEME = 'theme\'
 
 
 # Social widget
@@ -26,3 +26,4 @@ DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
